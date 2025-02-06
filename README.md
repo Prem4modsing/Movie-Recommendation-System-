@@ -63,7 +63,7 @@ y = Sentiment labels (target)
 Feel free to fork, submit pull requests, or open issues! Any contributions to enhance the project are welcome.
 
 📩 Contact
-If you have any suggestions or want to collaborate, reach out to me on LinkedIn.
+If you have any suggestions or want to collaborate, reach out to me on LinkedIn linkedin.com/in/prem-modsing-527844273.
 
 ⭐ If you like this project, don’t forget to star the repo! ⭐
 
