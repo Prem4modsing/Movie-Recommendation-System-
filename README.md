@@ -25,7 +25,7 @@ MySQL for storing movie data
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/Prem4modsing/Movie-Recommendation-System-/tree/main
 cd movie-recommendation-system
 2️⃣ Install dependencies:
 
